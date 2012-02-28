@@ -1,0 +1,1 @@
+A threaded client server application written in C++ using Qt SDK. The application registers clients and passing files from the client to the server.
