@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>savesFiles.txt</file>
+        <file>userpass.dat</file>
+    </qresource>
+</RCC>
