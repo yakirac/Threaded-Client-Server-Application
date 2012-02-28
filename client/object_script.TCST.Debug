@@ -1,0 +1,15 @@
+INPUT(
+./debug\client.o
+./debug\registerdialog.o
+./debug\serverthread.o
+./debug\clientsocket.o
+./debug\tcstserver.o
+./debug\main.o
+./debug\tcst.o
+./debug\moc_client.o
+./debug\moc_registerdialog.o
+./debug\moc_serverthread.o
+./debug\moc_clientsocket.o
+./debug\moc_tcstserver.o
+./debug\moc_tcst.o
+);

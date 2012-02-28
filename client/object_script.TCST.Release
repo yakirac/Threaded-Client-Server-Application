@@ -1,0 +1,15 @@
+INPUT(
+./release\client.o
+./release\registerdialog.o
+./release\serverthread.o
+./release\clientsocket.o
+./release\tcstserver.o
+./release\main.o
+./release\tcst.o
+./release\moc_client.o
+./release\moc_registerdialog.o
+./release\moc_serverthread.o
+./release\moc_clientsocket.o
+./release\moc_tcstserver.o
+./release\moc_tcst.o
+);
